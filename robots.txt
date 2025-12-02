@@ -1,0 +1,7 @@
+# Seven Cubed Seven Labs LLC
+# robots.txt for 7cubed7.io
+
+User-agent: *
+Allow: /
+
+Sitemap: https://7cubed7.io/sitemap.xml
